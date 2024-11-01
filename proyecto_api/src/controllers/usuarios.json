@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Valery Castro",
+    "correo": "vale@gmail.com",
+    "cuentaIban": "CR49500002134544514389",
+    "montoDisponible": "$25000"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos López",
+    "correo": "mirtha@gmail.com",
+    "cuentaIban": "CR49500002134544514389",
+    "montoDisponible": "$10000"
+  }
+]

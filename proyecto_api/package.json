@@ -1,0 +1,16 @@
+{
+  "name": "ejerciciolaboratorio",
+  "version": "1.0.0",
+  "description": "<FUNCIONAMIENTO DE LA API>\r Esta API permite ejecutar operaciones CRUD (Crear, Leer, Actualizar y Eliminar), sobre una lista de usuarios bancarios que están almacenados en un archivo JSON. \r Las pruebas y validaciones se pueden ejecutar a través del <POSTMAN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
